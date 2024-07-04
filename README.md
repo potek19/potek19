@@ -2,7 +2,7 @@
 - 👀 I’m interested in Baskeball and Front-End development
 - 🌱 I’m currently learning in depth JavaScript
 - 💞️ I’m looking to collaborate on any Front-end startups
-- 📫 You can reach me on reddit u/ImCuriousAndDumb
+- 📫 You can reach me on Instagram @hribartilen or reddit u/ImCuriousAndDumb
 - ⚡ I'm a student working in Novartis as Full-stack web app developer
 
 <!---
